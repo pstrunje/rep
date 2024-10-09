@@ -1,3 +1,6 @@
+![Screenshot from 2024-10-09 12-45-40](https://github.com/user-attachments/assets/14fb5640-0fca-4c88-b8ff-7a7bb5acc930)
+
+
 ***Overview***
 This repository contains a simple web project with a focus on HTML and CSS. The main feature of this project is a responsive drop-down navigation bar.
 
